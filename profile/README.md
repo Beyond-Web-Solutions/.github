@@ -1,4 +1,4 @@
-![Beyond Web Solutions Logo](assets/banner.jpg)
+![Beyond Web Solutions Logo](../assets/banner.jpg)
 
 Welcome to Beyond Web Solutions' GitHub organization! We specialize in developing custom software solutions, primarily focusing on web applications that elevate our clients' digital presence.
 

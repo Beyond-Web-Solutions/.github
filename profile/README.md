@@ -17,13 +17,6 @@ Beyond Web Solutions is dedicated to creating efficient, scalable, and innovativ
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=DDDDD0)
 ![](https://img.shields.io/badge/Hosting-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=DDDDD0)
 
-[//]: # (## 📈 Stats)
-
-[//]: # ()
-[//]: # ([![GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=Beyond-Web-Solutions&count_private=true&show_icons=true&theme=dark&bg_color=242424&line_height=20&title_color=db4949&icon_color=db4949&hide_border=true&#41;]&#40;https://github.com/Beyond-Web-Solutions&#41;)
-
-[//]: # ([![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Beyond-Web-Solutions&theme=dark&langs_count=6&layout=compact&bg_color=242424&title_color=db4949&icon_color=db4949&hide_border=true&#41;]&#40;https://github.com/Beyond-Web-Solutions&#41;)
-
 ## Connect with Us
 For more information, check out our website or reach out on LinkedIn.
 
